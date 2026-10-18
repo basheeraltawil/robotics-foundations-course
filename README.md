@@ -56,8 +56,8 @@ Full playlist: [Robotics Fundamentals on YouTube](https://studio.youtube.com/pla
 **On your machine:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/basheeraltawil/robotics-foundations-course
+cd robotics-foundations-course
 pip install numpy matplotlib jupyter
 jupyter notebook Module_1_Kinematics/kinematics_lab.ipynb
 ```
