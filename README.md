@@ -39,13 +39,13 @@ Each notebook section has a short video (about 4 minutes) on the AIBOMECH YouTub
 
 | Part | Video |
 |---|---|
-| 1 | Which Way Is It Facing? Rotation matrices, Euler angles and quaternions — [watch](LINK) |
-| 2 | From Joint Angles to Position (forward kinematics) — [watch](LINK) |
-| 3 | One Target, Two Answers (inverse kinematics) — [watch](LINK) |
-| 4 | The Jacobian and the Safety Check (singularities) — [watch](LINK) |
+| 1 | Which Way Is It Facing? Rotation matrices, Euler angles and quaternions — [watch](https://www.youtube.com/watch?v=LjzKx1PuxJY) |
+| 2 | From Joint Angles to Position (forward kinematics) — [watch](https://www.youtube.com/watch?v=ZADfwUZO0EA) |
+| 3 | One Target, Two Answers (inverse kinematics) — [watch](https://www.youtube.com/watch?v=OlKaNiCmJjQ) |
+| 4 | The Jacobian and the Safety Check (singularities) — [watch](https://www.youtube.com/watch?v=Ft3E8gUwGzA) |
 | 5 | Screw Theory and Module Wrap-Up — coming soon |
 
-Full playlist: [Robotics Fundamentals on YouTube](LINK)
+Full playlist: [Robotics Fundamentals on YouTube]([https://studio.youtube.com/playlist/PLF17wat5284k/edit](https://studio.youtube.com/playlist/PLF17wat5284k/videos))
 
 ---
 
