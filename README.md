@@ -1,8 +1,10 @@
-# Robotics Foundations — Module 1: Kinematics 
+# Robotics Foundations — Module 1: Kinematics (Free)
 
 **Learn robot kinematics by running it.** Rotation matrices, quaternions, forward and inverse kinematics, the Jacobian and singularities, explained with verified, runnable Python notebooks and short animated video lessons.
 
 This repository is the free first module of **Robotics Foundations**, a hands-on robotics course by **AIBOMECH** (AI · Robotics · Mechatronics). Every number in the lessons is computed and checked in code, so you can see the result change when you change the input.
+
+> **Coming next:** Dynamics · Probability & SLAM · ROS 2, Simulation & NVIDIA Isaac · Motion Planning. See [Coming modules](#coming-modules).
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Module_1_Kinematics/kinematics_lab.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -76,21 +78,48 @@ Module_1_Kinematics/
 
 ---
 
-## The full course
+## Coming modules
 
-Module 1 is free. The complete **Robotics Foundations** course continues with the same format: notebook, slides, video lessons and a real-world project scenario for every module.
+Module 1 is free and open. The next modules are being released as part of the full **Robotics Foundations** course, in the same format: a verified lab notebook, slides, short video lessons and a real-world case study for every module.
 
-| Module | Topic | Access |
+### Module 2 — Dynamics: How Forces Cause Motion *(coming soon)*
+- The mass matrix M(q) and the master equation of robot motion
+- Gravity, Coriolis and the full joint-torque breakdown, and why gravity dominates at low speed
+- What a wrong mass in your URDF actually does to the arm
+- Friction cones and the grip force needed to hold an object
+- Case study: the cobot that passed certification and still hurt someone
+
+### Module 3 — Probability, Estimation & SLAM *(coming soon)*
+- Bayes' theorem as the base of every estimator
+- The Kalman filter built from zero, then the Extended Kalman Filter for real robot motion
+- The particle filter and the kidnapped-robot problem
+- Factor graphs and loop closure: the complete SLAM picture
+- Case study: the warehouse robot that was confidently lost
+
+### Module 4 — ROS 2, Simulation & NVIDIA Isaac *(coming soon)*
+- ROS 2's four building blocks: topics, services, actions and parameters
+- Gazebo vs Isaac Sim vs Isaac Gym, compared with numbers
+- Closing the sim-to-real gap, and a full mobile-manipulator (TIAGo) software stack
+- A miniature fetch-and-retrieve state machine, plus an 8-week implementation roadmap
+- Case study: "it works in Gazebo" and the four gaps that make that meaningless
+
+### Module 5 — Motion Planning & Optimization *(bonus, coming soon)*
+- RRT*: motion planning that gets better with more time
+- CHOMP-style trajectory optimization: gradient descent on a whole path
+- TOPP-RA-style time parameterization: how fast, not just which way
+- Case study: the pick-and-place cell that ran 40% slower than quoted
+
+| Module | Topic | Status |
 |---|---|---|
-| 1 | Kinematics: the geometry of motion | Free — this repository |
-| 2 | Dynamics: how forces cause motion | Full course |
-| 3 | Probability, estimation and SLAM | Full course |
-| 4 | ROS 2, simulation and NVIDIA Isaac | Full course |
-| 5 | Motion planning and optimization (bonus) | Full course |
+| 1 | Kinematics | ✅ Free — this repository |
+| 2 | Dynamics | 🔜 Coming soon |
+| 3 | Probability, estimation & SLAM | 🔜 Coming soon |
+| 4 | ROS 2, simulation & NVIDIA Isaac | 🔜 Coming soon |
+| 5 | Motion planning & optimization (bonus) | 🔜 Coming soon |
 
-**What the full course adds:** a lab notebook for every module, the complete slide decks, a practical project scenario per module, and the full set of video lessons.
-
-**Get the full course:** [LINK]
+**Want the rest of the course?**
+- **Get the full course:** [LINK]
+- **Be notified when each module is released:** ⭐ star and 👁 watch this repository, and subscribe on [YouTube](LINK).
 
 ---
 
