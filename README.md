@@ -1,4 +1,4 @@
-# Robotics Foundations — Module 1: Kinematics (Free)
+# Robotics Foundations — Module 1: Kinematics 
 
 **Learn robot kinematics by running it.** Rotation matrices, quaternions, forward and inverse kinematics, the Jacobian and singularities, explained with verified, runnable Python notebooks and short animated video lessons.
 
