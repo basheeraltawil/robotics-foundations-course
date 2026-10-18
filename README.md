@@ -45,7 +45,7 @@ Each notebook section has a short video (about 4 minutes) on the AIBOMECH YouTub
 | 4 | The Jacobian and the Safety Check (singularities) — [watch](https://www.youtube.com/watch?v=Ft3E8gUwGzA) |
 | 5 | Screw Theory and Module Wrap-Up — coming soon |
 
-Full playlist: [Robotics Fundamentals on YouTube]([https://studio.youtube.com/playlist/PLF17wat5284k/edit](https://studio.youtube.com/playlist/PLF17wat5284k/videos))
+Full playlist: [Robotics Fundamentals on YouTube](https://studio.youtube.com/playlist/PLF17wat5284k/videos)
 
 ---
 
